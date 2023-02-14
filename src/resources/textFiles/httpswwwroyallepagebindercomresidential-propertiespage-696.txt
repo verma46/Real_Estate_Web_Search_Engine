@@ -1,0 +1,24 @@
+3493 Ancaster  Windsor Ontario,899000.00,6  4  Residential
+5899 Rivard Line  Grande Pointe Ontario,399900.00,3  1  Residential
+2054 Pillette Road  Windsor Ontario,439000.00,3  1  Residential
+306 Morin  Amherstburg Ontario,829900.00,3  2  Residential
+1429 Aubin  Windsor Ontario,299000.00,2  1  Residential
+2678 Askin  Windsor Ontario,1800.00,3  1  Residential
+266 Esdras Place  Windsor Ontario,889900.00,5  4  Residential
+1168 Nightfall Avenue  Windsor Ontario,629900.00,2  2  Residential
+8 Treeline Court  Harrow Ontario,519900.00,4  2  Residential
+Lot 67 Huron Church Line Ro…  Lasalle Ontario,1699900.00,4  6  Residential
+32 Robson  Leamington Ontario,549900.00,3  3  Residential
+81 Sandy Street  Chatham Ontario,379000.00,3  2  Residential
+440 Simcoe Street  Amherstburg Ontario,1310.00,2  1  Residential
+448 Simcoe Street  Amherstburg Ontario,1310.00,2  1  Residential
+6285 Disputed  Lasalle Ontario,1699900.00,5  6  Residential
+850 Point Pelee Drive  Leamington Ontario,3100.00,2  2  Residential
+Lot 10 Partington  Windsor Ontario,1559900.00,4  4  Residential
+1177 Aspen Ridge Crescent  Lakeshore Ontario,2500.00,3  2  Residential
+4 Noble  Amherstburg Ontario,3000.00,5  3  Residential
+150 Walnut Lane  Colchester Ontario,649000.00,4  3  Residential
+1302 Front Road  Amherstburg Ontario,1129900.00,2  2  Residential
+4159 St. Clair Street  Lasalle Ontario,549900.00,3  2  Residential
+1118 Dot Avenue  Amherstburg Ontario,849900.00,3  2  Residential
+274 Laurier Drive  Lasalle Ontario,2200.00,3  1  Residential

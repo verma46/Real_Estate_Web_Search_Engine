@@ -1,0 +1,24 @@
+93 Churchill Park Road  Chatham Ontario,525000.00,2  2  Residential
+97 Churchill Park Road  Chatham Ontario,525000.00,2  2  Residential
+89 Churchill Park Road  Chatham Ontario,475000.00,2  2  Residential
+85 Churchill Park Road  Chatham Ontario,475000.00,2  3  Residential
+13 Mediterranean Avenue  Amherstburg Ontario,469913.00,3  2  Residential
+1336 Clearwater  Windsor Ontario,1750.00,2  1  Residential
+Lot 23 Sutherland Crescent  St Clair Ontario,884900.00,4  3  Residential
+Lot 35 Sutherland Drive  St Clair Ontario,899900.00,4  3  Residential
+790 Concession Rd 2  Amherstburg Ontario,670000.00,4  2  Residential
+837 Hanna Street  Windsor Ontario,328888.00,4  1  Residential
+2900 Front  Lasalle Ontario,599900.00,3  2  Residential
+Lot 33 Sutherland Drive  St Clair Ontario,859900.00,3  2  Residential
+321 Crownridge  Amherstburg Ontario,599888.00,5  2  Residential
+1248 Pierre Avenue  Windsor Ontario,294500.00,3  2  Residential
+6129 Seventh Line  Merlin Ontario,524900.00,3  3  Residential
+312 Coronado  Tecumseh Ontario,2999.00,4  2  Residential
+919 Foxwood  Belle River Ontario,724900.00,4  3  Residential
+Lot 27 Sutherland Drive  St Clair Ontario,729900.00,3  2  Residential
+1264 Shoreline Avenue  Lakeshore Ontario,1399000.00,4  3  Residential
+1315 Orchard Boulevard  Kingsville Ontario,374900.00,3  1  Residential
+4624 Talbot Trail  Merlin Ontario,956900.00,4  3  Residential
+Lot 31 Sutherland Drive  St Clair Ontario,852900.00,4  3  Residential
+Lot 25 Sutherland Drive  St Clair Ontario,674900.00,2  2  Residential
+1060 Mckay Avenue  Windsor Ontario,369000.00,4  2  Residential

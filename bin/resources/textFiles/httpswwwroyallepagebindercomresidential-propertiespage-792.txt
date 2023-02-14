@@ -1,0 +1,24 @@
+138 Middleton Line  Wheatley Ontario,699900.00,3  3  Residential
+226 Mersea Rd 3  Leamington Ontario,949000.00,6  4  Residential
+1719 Iroquois Street  Windsor Ontario,2000.00,3  1  Residential
+2405 Dandurand  Windsor Ontario,549000.00,4  2  Residential
+1234 Oxford Avenue  Kingsville Ontario,799900.00,3  2  Residential
+153 Lane Street  Essex Ontario,2600.00,3  3  Residential
+1 Woodland  Kingsville Ontario,599900.00,3  3  Residential
+1431 County Rd 31  Lakeshore Ontario,999000.00,3  2  Residential
+214 Whisper Creek  Lakeshore Ontario,769900.00,3  3  Residential
+3359 North Malden Road  Essex Ontario,689900.00,4  2  Residential
+71 Copperfield Crescent  Chatham Ontario,419000.00,3  2  Residential
+3 Manning Drive  Chatham Ontario,429900.00,2  1  Residential
+2726 Bramley  Windsor Ontario,599900.00,4  2  Residential
+727 Faleria  Lakeshore Ontario,2600.00,2  2  Residential
+104 Essex Court  Chatham Ontario,165000.00,2  1  Residential
+2200 London Line  Sarnia Ontario,569900.00,4  1  Residential
+265 Geraldine  Windsor Ontario,2600.00,3  2  Residential
+1552 Harrison  Lasalle Ontario,1800.00,6  1  Residential
+3573 Peter  Windsor Ontario,369000.00,3  2  Residential
+2198 Suzanne Street  Lasalle Ontario,799900.00,3  4  Residential
+174 Cabot Trail  Chatham Ontario,2500.00,3  3  Residential
+1591 Martindale Street  Windsor Ontario,464900.00,7  2  Residential
+276 Texas Road  Amherstburg Ontario,699900.00,4  2  Residential
+1450 Pope  Lasalle Ontario,1850.00,3  1  Residential

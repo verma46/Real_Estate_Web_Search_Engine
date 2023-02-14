@@ -1,0 +1,24 @@
+858 Lefaive  Lighthouse Cove Ontario,799900.00,5  2  Residential
+6310 Main Street  Comber Ontario,549000.00,4  2  Residential
+401 Lenore Street  Belle River Ontario,629900.00,4  2  Residential
+1962 Longfellow  Windsor Ontario,1350.00,2  1  Residential
+1924 Manitoba  Windsor Ontario,2380.00,3  2  Residential
+2309 Forest  Windsor Ontario,269900.00,2  1  Residential
+398 Caserta Crescent  Lakeshore Ontario,2800.00,4  3  Residential
+1394 Front Road  Amherstburg Ontario,1175000.00,3  2  Residential
+505 Wellwood Court  Tecumseh Ontario,579505.00,3  2  Residential
+2515 Windermere Road  Windsor Ontario,399900.00,5  2  Residential
+258 Cotterie Park  Leamington Ontario,699900.00,3  2  Residential
+7105 Isabelle Court  Windsor Ontario,2400.00,3  1  Residential
+1970 Grand Marais Road  Windsor Ontario,549900.00,5  2  Residential
+107 Legacy Lane  Chatham Ontario,1250000.00,4  3  Residential
+256 Moceri Crescent  Lakeshore Ontario,749900.00,Vacant Land
+2504 Askin  Windsor Ontario,549900.00,4  2  Residential
+3100 Austen Drive  Windsor Ontario,569000.00,3  2  Residential
+44 Mill Street  Kingsville Ontario,649900.00,3  2  Residential
+470 Seacliff  Kingsville Ontario,699000.00,4  3  Residential
+1570 Parent Avenue  Windsor Ontario,299000.00,4  3  Residential
+907 Bridge Avenue  Windsor Ontario,1700.00,3  1  Residential
+313 Alma  Amherstburg Ontario,379900.00,2  1  Residential
+560 Laurier  Lasalle Ontario,499000.00,4  2  Residential
+5 Cherry Street  Mcgregor Ontario,229900.00,3  1  Residential

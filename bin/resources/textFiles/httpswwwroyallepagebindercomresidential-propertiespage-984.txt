@@ -1,0 +1,24 @@
+8 Baffin Way  Chatham Ontario,689900.00,4  3  Residential
+6757 East Parkway Drive  Lambton Shores Ontario,899000.00,5  3  Residential
+3195 Conservation Drive  Windsor Ontario,2900.00,5  2  Residential
+972 Parent  Windsor Ontario,459900.00,3  2  Residential
+836 Westchester Drive  Windsor Ontario,539900.00,4  2  Residential
+14 Emerald Place  Chatham Ontario,509999.00,3  2  Residential
+431 Seacliff Drive  Leamington Ontario,518900.00,5  2  Residential
+611 George Kennedy Way  Lakeshore Ontario,1150000.00,5  3  Residential
+1369 Front Road  Amherstburg Ontario,1750000.00,4  3  Residential
+62 Albert Street  Shrewsbury Ontario,199000.00,2  1  Residential
+871-873 Elm  Windsor Ontario,449933.00,7  2  Residential
+2095 Cousineau Road  Lasalle Ontario,1499000.00,6  3  Residential
+3885 Sixth Concession Road  Windsor Ontario,649900.00,4  3  Residential
+3885 Sixth Concession Road  Windsor Ontario,2200.00,4  3  Residential
+1025 St. Paul Avenue  Windsor Ontario,699000.00,4  2  Residential
+370 Oak Street  Bothwell Ontario,614800.00,3  2  Residential
+35 Gateway Walk  Chatham Ontario,649900.00,3  3  Residential
+3185 Byng Road  Windsor Ontario,549900.00,4  2  Residential
+18 Lundy Street  Amherstburg Ontario,799000.00,3  2  Residential
+119 Park Lane  Chatham Ontario,227777.00,1  1  Residential
+3306 Turner  Windsor Ontario,449900.00,4  2  Residential
+216 Estella Road  London Ontario,699900.00,4  2  Residential
+7836 St. Clair ...  Stoney Point Ontario,2800.00,3  2  Residential
+385 Mulberry Lane  Lakeshore Ontario,3000.00,5  3  Residential

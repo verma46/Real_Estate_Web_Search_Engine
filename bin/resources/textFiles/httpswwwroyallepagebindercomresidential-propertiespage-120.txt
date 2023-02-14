@@ -1,0 +1,24 @@
+466 Talbot Street  Leamington Ontario,1500000.00,4  4  Residential
+761 St. Antoine Street  Windsor Ontario,1950.00,4  2  Residential
+1232 Gladstone Avenue  Windsor Ontario,1950.00,3  1  Residential
+2530 Longfellow  Windsor Ontario,2450.00,3  2  Residential
+88 Southend Crescent  Chatham Ontario,399000.00,3  2  Residential
+150 Elsworth  Lasalle Ontario,399900.00,2  1  Residential
+193 Mccormick Beach Road  Harrow Ontario,1350000.00,4  2  Residential
+4025 Borelli  Windsor Ontario,899900.00,4  4  Residential
+77 Kingsbridge  Amherstburg Ontario,1069900.00,4  3  Residential
+19055 Haven Avenue  Tilbury North Ontario,319000.00,Vacant Land
+1256 Settler`S  Windsor Ontario,2100.00,3  2  Residential
+136 Dunkirk Drive  Chatham Ontario,265000.00,2  1  Residential
+1370 Legends Lane  Lakeshore Ontario,769900.00,3  3  Residential
+4845 Terra Bella  Lasalle Ontario,2299000.00,5  5  Residential
+382 Langlois  Windsor Ontario,429000.00,5  3  Residential
+1174 Windermere  Windsor Ontario,2500.00,3  3  Residential
+159 Rourke Line Road  Lakeshore Ontario,778800.00,4  4  Residential
+715 Eugenie Street  Windsor Ontario,399900.00,5  2  Residential
+1003 Campbell Avenue  Windsor Ontario,399900.00,2  1  Residential
+106 Bay Street  Lakeshore Ontario,1249000.00,4  4  Residential
+1138 Harrison  Windsor Ontario,299900.00,6  2  Residential
+18 Bristol Drive  Chatham Ontario,419900.00,3  2  Residential
+4844 Whitefish Crescent  Windsor Ontario,699900.00,4  2  Residential
+64 Margaret Avenue  Wallaceburg Ontario,485000.00,5  2  Residential

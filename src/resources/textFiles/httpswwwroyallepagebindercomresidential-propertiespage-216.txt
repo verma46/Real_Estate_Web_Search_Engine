@@ -1,0 +1,24 @@
+4274 Stagecoach  Windsor Ontario,514900.00,5  2  Residential
+1313 Bedell  Tecumseh Ontario,449900.00,5  2  Residential
+155 Lansdowne Avenue  Sarnia Ontario,419900.00,3  1  Residential
+3043 London Line  Plympton-Wyoming Ontario,689900.00,4  2  Residential
+23 Richard Street  Ridgetown Ontario,349900.00,5  3  Residential
+719 Faleria Street  Lakeshore Ontario,1800.00,1  1  Residential
+719 Faleria Street  Lakeshore Ontario,2350.00,3  2  Residential
+365 Piroli Crescent  Lakeshore Ontario,749999.00,5  2  Residential
+450 Dalhousie Street  Amherstburg Ontario,1799000.00,5  3  Residential
+66 Wiltshire Drive  Chatham Ontario,499000.00,4  3  Residential
+77 Gore Street  Amherstburg Ontario,679900.00,4  2  Residential
+10397 Menard Street  Windsor Ontario,949999.00,5  3  Residential
+119 Lacroix Street  Chatham Ontario,189900.00,3  2  Residential
+41 Regina Drive  Lakeshore Ontario,149900.00,2  1  Residential
+21204 Hodovick  Wheatley Ontario,599000.00,3  1  Residential
+375 Bridge  Windsor Ontario,399999.00,5  1  Residential
+2055 Hickory Lane  Kingsville Ontario,8900.00,5  6  Residential
+1580 Buckingham Drive  Windsor Ontario,288580.00,2  1  Residential
+9225 Short Malden  Lasalle Ontario,3399000.00,5  3  Residential
+13 Westmoreland Avenue  Leamington Ontario,199000.00,2  1  Residential
+3280 Settler Sideroad  Comber Ontario,625000.00,4  2  Residential
+2493 Front  Lasalle Ontario,495000.00,3  1  Residential
+10041 County Rd 23  Essex Ontario,1699900.00,5  5  Residential
+24 Rickway  Leamington Ontario,399900.00,3  2  Residential

@@ -1,0 +1,24 @@
+19 Kelly Crescent  Tilbury Ontario,349900.00,3  2  Residential
+80 Whelan Drive  Amherstburg Ontario,799000.00,5  3  Residential
+126 Beverly  Harrow Ontario,519888.00,4  2  Residential
+4345 Pioneer  Windsor Ontario,949900.00,5  3  Residential
+812 Tudor Close  Sarnia Ontario,1799900.00,3  4  Residential
+287 Elmgrove Drive  Lakeshore Ontario,1744000.00,7  6  Residential
+469 St Clair Street  Chatham Ontario,697500.00,3  1  Residential
+136 Bridlepath Trail  Sarnia Ontario,999900.00,5  3  Residential
+25 Pulford Avenue  Leamington Ontario,549900.00,3  2  Residential
+506 Lilymac Boulevard  Windsor Ontario,868000.00,2  2  Residential
+33 Park Lane  Chatham Ontario,449900.00,3  2  Residential
+653 Grove Avenue  Sarnia Ontario,599000.00,4  3  Residential
+31 Tanser Court  Chatham Ontario,725000.00,4  2  Residential
+191 King Street  Chatham Ontario,237600.00,3  1  Residential
+2276 Charl  Windsor Ontario,1800.00,2  1  Residential
+142 Cabot Trail  Chatham Ontario,2000.00,3  2  Residential
+22882 Eastlawn Road  Chatham-Kent Ontario,789900.00,3  3  Residential
+2009 Glendale  Windsor Ontario,599900.00,5  4  Residential
+115 Main Street  Ridgetown Ontario,875000.00,4  2  Residential
+200 Park Avenue  Chatham Ontario,399999.00,3  2  Residential
+1501 Community Road  Dresden Ontario,549900.00,4  3  Residential
+149 Davis  Amherstburg Ontario,1099900.00,4  3  Residential
+5012 Talbot Trail  Merlin Ontario,1050000.00,3  2  Residential
+1433 Bruce  Windsor Ontario,2150.00,3  1  Residential

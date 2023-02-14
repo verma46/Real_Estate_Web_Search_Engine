@@ -1,0 +1,24 @@
+597 Compton  Windsor Ontario,649000.00,4  2  Residential
+2759 Randolph Avenue  Windsor Ontario,2500.00,3  1  Residential
+6 Robin Crescent  Lakeshore Ontario,189900.00,3  1  Residential
+1389 Langlois Avenue  Windsor Ontario,1900.00,3  1  Residential
+30 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+365 Letino Drive  Lakeshore Ontario,1149900.00,4  3  Residential
+586 Dresden Place  Tecumseh Ontario,2250.00,4  2  Residential
+27 Jane Street  Ridgetown Ontario,549000.00,5  2  Residential
+561 St. Clair Street  Chatham Ontario,375000.00,3  1  Residential
+60 Pine Drive  Wallaceburg Ontario,599900.00,4  2  Residential
+357 Cameron Street  St Clair Ontario,399999.00,4  2  Residential
+1525 Moy  Windsor Ontario,1800.00,2  1  Residential
+33 Nancy Avenue  Leamington Ontario,399000.00,3  1  Residential
+1228 California  Windsor Ontario,349900.00,2  1  Residential
+1351 Rendezvous Drive  Windsor Ontario,649900.00,4  3  Residential
+609 Holburn Street  Windsor Ontario,1395000.00,5  4  Residential
+655 Hildegarde  Windsor Ontario,399900.00,3  2  Residential
+225 David Crescent  Essex Ontario,174900.00,2  1  Residential
+143 Elizabeth Street  Chatham Ontario,385000.00,4  2  Residential
+383 Mulberry Lane  Belle River Ontario,2400.00,3  2  Residential
+10260 Eastcourt  Windsor Ontario,2500.00,4  2  Residential
+10260 Eastcourt  Windsor Ontario,429900.00,4  2  Residential
+4205 Stagecoach  Windsor Ontario,429900.00,3  2  Residential
+1643 Partington  Windsor Ontario,1800.00,2  2  Residential

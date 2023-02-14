@@ -1,0 +1,24 @@
+2639 Elsmere  Windsor Ontario,339900.00,3  1  Residential
+3140 Highway 3  Tecumseh Ontario,598500.00,5  3  Residential
+1414 Mickaila Crescent  Tecumseh Ontario,349900.00,3  2  Residential
+176 Greenfield Lane  Chatham Ontario,419900.00,3  1  Residential
+567 Indian Road North  Sarnia Ontario,399900.00,3  2  Residential
+1093 St. Paul  Windsor Ontario,769900.00,5  3  Residential
+12529 Horwood  Tecumseh Ontario,2500.00,3  3  Residential
+47 Fox  Leamington Ontario,399900.00,5  3  Residential
+1181 Lillian Avenue  Windsor Ontario,299900.00,3  2  Residential
+2154 Longfellow  Windsor Ontario,349900.00,2  1  Residential
+11360 Riverside  Windsor Ontario,949900.00,3  2  Residential
+1380 Gabrieau Street  Lasalle Ontario,889900.00,5  3  Residential
+12678 Horwood Crescent  Tecumseh Ontario,549900.00,3  2  Residential
+1911 Balfour Boulevard  Windsor Ontario,299900.00,3  1  Residential
+1185 Langlois  Windsor Ontario,279900.00,3  3  Residential
+1215 Stanley  Windsor Ontario,699900.00,5  3  Residential
+214 St Clair Boulevard  St Clair Ontario,565000.00,3  3  Residential
+214 St Clair Boulevard  St Clair Ontario,575000.00,3  3  Residential
+662 South Pacific  Windsor Ontario,599900.00,4  2  Residential
+2469 Partington  Windsor Ontario,1100000.00,6  3  Residential
+1115 Copeland  Windsor Ontario,3000.00,4  3  Residential
+181 Diane Crescent  Lakeshore Ontario,799900.00,6  4  Residential
+200 Victory Street  Lasalle Ontario,474900.00,3  1  Residential
+3354 Candlewood  Windsor Ontario,539000.00,3  2  Residential

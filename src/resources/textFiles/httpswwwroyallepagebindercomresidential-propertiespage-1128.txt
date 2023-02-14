@@ -1,0 +1,24 @@
+131 John Street  Warwick-Watford Ontario,499900.00,3  2  Residential
+749 Manor Park Crescent  Sarnia Ontario,549900.00,5  2  Residential
+203 Park Street  Chatham Ontario,235000.00,2  1  Residential
+558 Ontario Street  Warwick-Watford Ontario,549000.00,4  3  Residential
+3432 Caribou Crescent  Windsor Ontario,2500.00,5  2  Residential
+409 Watson  Windsor Ontario,489900.00,3  2  Residential
+9401 Alma Street  Amherstburg Ontario,2388000.00,6  4  Residential
+1674 Caille Avenue  Lakeshore Ontario,1475000.00,3  3  Residential
+3 Robin Crescent  Lakeshore Ontario,69900.00,2  1  Residential
+1481 Road 2  Kingsville Ontario,1999900.00,4  4  Residential
+1167 Aspen Ridge Crescent  Lakeshore Ontario,3000.00,5  3  Residential
+9527 River Line  Chatham-Kent Ontario,665000.00,4  2  Residential
+108 Marlin  Windsor Ontario,129999.00,1  1  Residential
+15 Partridge Crescent  Chatham Ontario,649900.00,4  2  Residential
+3248 Byng  Windsor Ontario,349900.00,2  2  Residential
+36 Plumbrook  Leamington Ontario,482000.00,3  2  Residential
+1621 California  Windsor Ontario,399900.00,3  2  Residential
+140 Baird Street  Wheatley Ontario,634900.00,5  3  Residential
+105 Aspen Circle  Not Available Ontario,1100000.00,4  3  Residential
+188 Arthur St N  Harrow Ontario,479900.00,3  3  Residential
+1020 Crestwood Court  Windsor Ontario,699000.00,6  4  Residential
+3294 Riberdy  Windsor Ontario,199900.00,Vacant Land
+3290 Riberdy  Windsor Ontario,199900.00,3  1  Residential
+2797 Allyson  Windsor Ontario,2000.00,2  1  Residential

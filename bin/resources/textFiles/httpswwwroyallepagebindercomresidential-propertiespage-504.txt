@@ -1,0 +1,24 @@
+969 Nova Street  Windsor Ontario,819999.00,3  3  Residential
+29 Hilton Court  Amherstburg Ontario,798000.00,3  2  Residential
+430 Mcewan  Windsor Ontario,1950.00,3  1  Residential
+60 Parkside Drive  Mcgregor Ontario,224900.00,3  2  Residential
+605 Woodridge  Tecumseh Ontario,3500.00,6  2  Residential
+26 Laurentia Drive  Tilbury Ontario,649000.00,5  2  Residential
+1619 George  Windsor Ontario,399900.00,4  2  Residential
+36 Victoria  Leamington Ontario,299900.00,4  2  Residential
+178 County Road 50  Colchester Ontario,2390000.00,5  5  Residential
+12685 Kimberly  Tecumseh Ontario,589900.00,4  2  Residential
+20 Bonita  Windsor Ontario,69900.00,2  1  Residential
+4574 Tumbleweed  Windsor Ontario,499900.00,3  2  Residential
+276 Philip  Belle River Ontario,699900.00,3  3  Residential
+1811 Randolph Avenue  Windsor Ontario,629033.31,3  2  Residential
+112 Kingsbridge  Amherstburg Ontario,944999.00,3  2  Residential
+1280 Outram Avenue  Lasalle Ontario,920000.00,5  3  Residential
+135 North Rear Road  Lakeshore Ontario,4800.00,4  3  Residential
+850 Smeeton  Windsor Ontario,699900.00,4  3  Residential
+15274 Dundas  Duart Ontario,399900.00,4  1  Residential
+621 Front  Lasalle Ontario,3800.00,5  2  Residential
+822 Partington Avenue  Windsor Ontario,449900.00,5  2  Residential
+63 Fort Street  Tilbury Ontario,549000.00,4  2  Residential
+175 Churchill Park Road  Chatham Ontario,2440.00,2  1  Residential
+175 Churchill Park Road  Chatham Ontario,2440.00,2  1  Residential

@@ -1,0 +1,24 @@
+114 William Street  Merlin Ontario,244900.00,3  1  Residential
+99 Bob Lo Island Boulevard  Amherstburg Ontario,674900.00,2  2  Residential
+Lot 8 Water Street  Lakeshore Ontario,499900.00,Vacant Land
+966 Bruce  Windsor Ontario,449900.00,7  3  Residential
+113 Talbot Street  Leamington Ontario,499900.00,4  2  Residential
+3772 Blackburn  Windsor Ontario,394777.00,2  1  Residential
+316 Talbot Street  Essex Ontario,929999.00,4  2  Residential
+6490 Talbot Trail  Merlin Ontario,699900.00,3  2  Residential
+15762 Lees Line  Chatham-Kent Ontario,395000.00,6  2  Residential
+154 Semenyn Avenue  Chatham Ontario,494900.00,3  3  Residential
+1517 Southfield  Tecumseh Ontario,2500.00,3  3  Residential
+4401 Caterina Crescent  Lasalle Ontario,1399999.00,4  4  Residential
+120 Meadows Lane  Amherstburg Ontario,969900.00,3  3  Residential
+13121 Walker Road  Mcgregor Ontario,998000.00,4  3  Residential
+4662 Bunker  Windsor Ontario,2700.00,4  2  Residential
+3872 Daytona  Windsor Ontario,679900.00,6  2  Residential
+2211 Front Road  Lasalle Ontario,650170.00,2  2  Residential
+12 Baker Crescent  Amherstburg Ontario,849900.00,5  3  Residential
+3170 Northway Avenue  Windsor Ontario,599900.00,3  2  Residential
+78 Whelan  Amherstburg Ontario,799999.00,5  3  Residential
+1141 Gesto Sideroad  Essex Ontario,824900.00,2  2  Residential
+30 Augustus Court  Lasalle Ontario,2649000.00,8  5  Residential
+V/l Gesto Sideroad  Essex Ontario,349900.00,Vacant Land
+328 Lakeview Avenue  Kingsville Ontario,599900.00,3  2  Residential

@@ -1,0 +1,24 @@
+645 Lacasse Boulevard  Tecumseh Ontario,499000.00,4  2  Residential
+19 Francis Street  Kingsville Ontario,699900.00,3  3  Residential
+228 Wedgewood Lane  Tecumseh Ontario,679900.00,6  3  Residential
+4 Clyde Street  Lambton Shores Ontario,199900.00,2  Residential
+281 William Street  London Ontario,1500.00,1  1  Residential
+24 Alpine Avenue  Chatham Ontario,410000.00,4  2  Residential
+7152 Queens Line  Chatham Ontario,2200.00,2  2  Residential
+Lot 6 Mayfair Avenue  Lasalle Ontario,999900.00,2  2  Residential
+Lot 7 Mayfair Avenue  Lasalle Ontario,1199900.00,4  4  Residential
+271 Mill  Windsor Ontario,1700.00,3  1  Residential
+3027 Regis  Windsor Ontario,2950.00,5  2  Residential
+186 Taylor Trail  Chatham Ontario,649900.00,4  4  Residential
+495 Huron Street  Lasalle Ontario,3000.00,5  3  Residential
+1316 Deer Run  Lakeshore Ontario,739900.00,5  3  Residential
+949 Walker  Windsor Ontario,2700.00,2  4  Residential
+11964 Boulder Crescent  Windsor Ontario,2650.00,3  3  Residential
+58 Park Avenue  Chatham Ontario,469900.00,3  2  Residential
+200 Texas Road  Amherstburg Ontario,789200.00,3  3  Residential
+1122 West Belle River Road  Lakeshore Ontario,1349900.00,4  4  Residential
+92 Lansdowne  Kingsville Ontario,619900.00,4  2  Residential
+106 Leneve Street  Lambton Shores Ontario,719900.00,3  3  Residential
+104 Leneve Street  Lambton Shores Ontario,684900.00,3  3  Residential
+102 Leneve Street  Lambton Shores Ontario,684900.00,3  3  Residential
+100 Leneve Street  Lambton Shores Ontario,719900.00,3  3  Residential

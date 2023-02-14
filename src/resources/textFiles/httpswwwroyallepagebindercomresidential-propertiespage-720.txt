@@ -1,0 +1,24 @@
+3171 Dandurand  Windsor Ontario,2900.00,4  2  Residential
+1175 Hayes  Lasalle Ontario,2850.00,2  2  Residential
+587 Keil Trail  Chatham Ontario,619900.00,3  2  Residential
+674 Lily Mac Boulevard  Windsor Ontario,999900.00,2  2  Residential
+Lot 12 Street C  Lakeshore Ontario,1099000.00,4  3  Residential
+11319 Timberbay Crescent  Windsor Ontario,549900.00,3  2  Residential
+2228 Moy  Windsor Ontario,629900.00,3  2  Residential
+932 Gladstone  Windsor Ontario,1990.00,4  2  Residential
+471 Sandpoint Court  Windsor Ontario,599900.00,4  5  Residential
+22249 Charing Cross Road  Chatham Ontario,849000.00,5  4  Residential
+425-429 Partington  Windsor Ontario,799900.00,10  4  Residential
+1825 Rooney  Windsor Ontario,2000.00,5  3  Residential
+9505 Menard  Windsor Ontario,899900.00,5  4  Residential
+107 Maidstone Avenue  Essex Ontario,599900.00,4  2  Residential
+2335 Passingham Drive  Sarnia Ontario,4000.00,3  3  Residential
+488 Lacroix Street  Chatham Ontario,449900.00,3  3  Residential
+1572 Buckingham  Windsor Ontario,329900.00,2  1  Residential
+30 Montgomery Street  Wallaceburg Ontario,299900.00,2  1  Residential
+563 Albert Boulevard  St Clair Ontario,459900.00,4  2  Residential
+1116 Aspen Ridge Crescent  Lakeshore Ontario,3000.00,5  3  Residential
+4691 Helsinki  Windsor Ontario,699900.00,4  3  Residential
+122 Bright Street  Sarnia Ontario,309900.00,2  1  Residential
+898 Lakeshore Rd 101  Lakeshore Ontario,2499999.00,5  4  Residential
+192 Whelan Avenue  Amherstburg Ontario,1100000.00,4  4  Residential

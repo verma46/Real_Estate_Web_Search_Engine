@@ -1,0 +1,24 @@
+2021 Ontario ...  Windsor Ontario,2999000.00,6  6  Residential
+2130 Moy Avenue  Windsor Ontario,638000.00,5  2  Residential
+1528 Villa Maria Boulevard  Windsor Ontario,2500.00,3  2  Residential
+2234 County Rd 31  Lakeshore Ontario,563300.00,6  2  Residential
+2095 Cousineau Road  Lasalle Ontario,3200.00,6  3  Residential
+2416 Fox Run  Leamington Ontario,224900.00,3  1  Residential
+23 Duke Street  Chatham Ontario,214900.00,2  1  Residential
+1089 Aspen Ridge Crescent  Lakeshore Ontario,3200.00,5  3  Residential
+246 Talbot Street  Blenheim Ontario,499900.00,4  1  Residential
+1464 Rockport Street  Windsor Ontario,999000.00,4  4  Residential
+125 Talbot Street  Blenheim Ontario,549900.00,4  3  Residential
+20 Betty  Chatham Ontario,750000.00,4  3  Residential
+658 Hall Street  Sarnia Ontario,499900.00,5  3  Residential
+103 Ironwood Drive  Chatham Ontario,2200.00,3  2  Residential
+4629 Jenkela Court  Windsor Ontario,999000.00,6  3  Residential
+1642 Curry Avenue  Windsor Ontario,339000.00,3  1  Residential
+385 Jolly  Lasalle Ontario,579900.00,5  3  Residential
+95 Main Street  Ridgetown Ontario,448000.00,4  2  Residential
+3592 Victoria Street  Plympton-Wyoming Ontario,1399999.00,5  4  Residential
+35 Indian Creek Road  Chatham Ontario,499900.00,3  3  Residential
+1237 Elsmere  Windsor Ontario,1850.00,4  1  Residential
+678 Grand Marais Road  Windsor Ontario,349000.00,3  1  Residential
+232 Belleview  Windsor Ontario,2000.00,4  1  Residential
+1160 County Rd 34  Ruthven Ontario,949000.00,4  3  Residential

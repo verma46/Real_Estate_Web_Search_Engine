@@ -1,0 +1,24 @@
+221 Catherine  Blenheim Ontario,2345.00,4  2  Residential
+456 Brunmar  Lakeshore Ontario,759900.00,5  3  Residential
+224 Terra Lou  Belle River Ontario,659900.00,3  3  Residential
+805 Roselawn  Windsor Ontario,599900.00,4  2  Residential
+1641 St. Luke  Windsor Ontario,399900.00,5  2  Residential
+1047 Aspen Ridge  Lakeshore Ontario,1059900.00,5  3  Residential
+836 Greendale  Windsor Ontario,585000.00,3  2  Residential
+1334 Orchard Boulevard  Kingsville Ontario,379900.00,2  1  Residential
+955 Walker Road  Windsor Ontario,2900.00,2  4  Residential
+3772 Concession 3  Amherstburg Ontario,654900.00,2  2  Residential
+37 Nicholas  Leamington Ontario,799000.00,4  3  Residential
+191 East Puce Road  Lakeshore Ontario,739900.00,2  2  Residential
+450 Lafferty  Lasalle Ontario,649000.00,3  1  Residential
+77 Olive Drive  Leamington Ontario,864900.00,5  3  Residential
+3270 Everts  Windsor Ontario,599900.00,4  2  Residential
+293 Brighton Road  Tecumseh Ontario,1399999.00,5  4  Residential
+497 Texas  Amherstburg Ontario,824888.00,5  2  Residential
+1099 Heritage Drive  Lasalle Ontario,579888.00,4  2  Residential
+76 Cross Street  Chatham Ontario,399000.00,3  3  Residential
+985 Porrone Drive  Kingsville Ontario,1399900.00,5  4  Residential
+109 Lambert  Amherstburg Ontario,999900.00,4  2  Residential
+5610 Baldwin Avenue  Windsor Ontario,489000.00,4  1  Residential
+217 Livingstone Crescent  Amherstburg Ontario,709900.00,2  2  Residential
+1170 Langlois Avenue  Windsor Ontario,249000.00,4  2  Residential

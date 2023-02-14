@@ -1,0 +1,24 @@
+20 Baffin Way  Chatham Ontario,659900.00,3  3  Residential
+323 Kentucky Court  St Clair Ontario,694900.00,4  3  Residential
+1228 Cottage Place  Windsor Ontario,449900.00,4  2  Residential
+9 Baffin Way  Chatham Ontario,689900.00,4  3  Residential
+43 Belleview Drive  Cottam Ontario,999900.00,5  3  Residential
+3964 Whitney Avenue  Windsor Ontario,589000.00,5  3  Residential
+104 Tweedsmuir Avenue  Chatham Ontario,299900.00,2  1  Residential
+1439 Guildwood Crescent  Lasalle Ontario,655000.00,4  3  Residential
+558 Reaume Road  Lasalle Ontario,2500.00,3  2  Residential
+6132 Malden  Lasalle Ontario,649999.00,5  2  Residential
+12825 Riverside Drive  Tecumseh Ontario,799900.00,4  4  Residential
+1134 Mersea Rd 6  Leamington Ontario,1349999.00,4  5  Residential
+1637 Cypress Avenue  Windsor Ontario,779900.00,4  3  Residential
+16 Duskridge Road  Chatham Ontario,549900.00,2  2  Residential
+1025 Curry Avenue  Windsor Ontario,289900.00,5  2  Residential
+57 Bordeaux Place  Chatham Ontario,699900.00,3  3  Residential
+57 Baffin Way  Chatham Ontario,569900.00,3  2  Residential
+V/l Bluff Line  Wheatley Ontario,189900.00,Vacant Land
+19 Westmoreland Avenue  Leamington Ontario,399900.00,2  1  Residential
+5360 Huron Church Line  Lasalle Ontario,2850.00,2  2  Residential
+76 Duskridge Road  Chatham Ontario,549900.00,2  2  Residential
+470 Lincoln  Windsor Ontario,2100.00,4  2  Residential
+3327 Peter  Windsor Ontario,3000.00,5  3  Residential
+1938 Aubin  Windsor Ontario,399900.00,3  1  Residential

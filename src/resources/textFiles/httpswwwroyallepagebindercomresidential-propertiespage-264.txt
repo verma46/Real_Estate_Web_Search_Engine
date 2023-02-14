@@ -1,0 +1,24 @@
+2679 Gem Street  Windsor Ontario,399900.00,4  2  Residential
+24978 Winterline Road  Chatham-Kent Ontario,575000.00,4  2  Residential
+365 Elsfield Crescent  Sarnia Ontario,489900.00,3  2  Residential
+1587 Hall  Windsor Ontario,599000.00,5  2  Residential
+39 Willowmac Avenue  Chatham Ontario,359900.00,4  2  Residential
+111 Sylvester Drive  Chatham Ontario,475000.00,4  2  Residential
+223 Livingstone Crescent  Amherstburg Ontario,649900.00,2  2  Residential
+2485 Santo Drive  Windsor Ontario,549900.00,4  2  Residential
+1188 Langlois Avenue  Windsor Ontario,649900.00,4  3  Residential
+1100 Laurier Avenue  Lasalle Ontario,1599500.00,5  4  Residential
+1540 Grand Marais  Windsor Ontario,2800.00,3  3  Residential
+12920 Laforet Beach  Lakeshore Ontario,699900.00,4  2  Residential
+3696 Holburn Street  Windsor Ontario,399900.00,3  3  Residential
+3170 Fletcher  Windsor Ontario,2750.00,3  3  Residential
+130 Catalina Cove  Tecumseh Ontario,1800.00,2  1  Residential
+1025 Lena Avenue  Windsor Ontario,199999.00,2  1  Residential
+398 Pentilly Road  Tecumseh Ontario,899900.00,4  3  Residential
+78 Julie Lane  Lakeshore Ontario,229900.00,3  1  Residential
+3042 Suffolk Street  Windsor Ontario,399900.00,3  1  Residential
+4326 Huron Church Line Road  Lasalle Ontario,469900.00,2  3  Residential
+19434 Erieau Road  Blenheim Ontario,429900.00,3  1  Residential
+1010 Roselawn  Windsor Ontario,499900.00,3  2  Residential
+1563 Pelissier  Windsor Ontario,399888.00,4  1  Residential
+2375 Front Road  Lasalle Ontario,349900.00,3  1  Residential

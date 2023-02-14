@@ -1,0 +1,24 @@
+2340 Mark Avenue  Windsor Ontario,2000.00,2  1  Residential
+3073 Normandy  Lasalle Ontario,499000.00,Vacant Land
+7093 Grande River Line  Chatham-Kent Ontario,649900.00,3  2  Residential
+3371 County Road 20  Amherstburg Ontario,1100000.00,5  3  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+512 Mc Mahon Circle  St Clair Ontario,629900.00,5  3  Residential
+356 Exmouth Street  Sarnia Ontario,349900.00,2  1  Residential
+19380 Lagoon Rd  Chatham-Kent Ontario,999900.00,3  2  Residential
+1540 Sprucewood  Lasalle Ontario,699000.00,2  2  Residential
+2846 Byng Road  Windsor Ontario,499900.00,3  1  Residential
+1724 Parent  Windsor Ontario,349999.00,3  1  Residential
+4585 Gapam  Windsor Ontario,499999.00,2  2  Residential
+138 Brownlee Crescent  Wallaceburg Ontario,398000.00,3  2  Residential
+1209 Nottingham Drive  Sarnia Ontario,299900.00,3  2  Residential
+189 Bedford Crescent  Sarnia Ontario,289900.00,3  2  Residential
+4906 Howard Avenue  Tecumseh Ontario,2200.00,4  2  Residential
+6043 Concession Rd 6  Amherstburg Ontario,2500.00,5  2  Residential
+401 Thompson  Amherstburg Ontario,2700.00,3  2  Residential
+1091 Copeland Avenue  Windsor Ontario,674900.00,2  2  Residential
+388 Evelyn  Belle River Ontario,729900.00,4  3  Residential
+217 Hudson Crescent  Wallaceburg Ontario,649900.00,4  4  Residential
+243 Meadowview Avenue  Amherstburg Ontario,849888.00,4  3  Residential
+129 Margaret Brown Court  Essex Ontario,599900.00,4  2  Residential

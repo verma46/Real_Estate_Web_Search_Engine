@@ -1,0 +1,24 @@
+2743 Lloyd George Boulevard  Windsor Ontario,599900.00,4  2  Residential
+123 Park Avenue  Chatham Ontario,429900.00,5  2  Residential
+1248 High Street  Windsor Ontario,599900.00,4  2  Residential
+224 Duncan Street  Wallaceburg Ontario,249900.00,4  2  Residential
+955 East West Road  Pelee Island Ontario,57900.00,1  1  Residential
+955 East West Road  Pelee Island Ontario,57900.00,Vacant Land
+168 Spring  Belle River Ontario,749900.00,3  2  Residential
+140 North Street  Sombra Ontario,515000.00,3  2  Residential
+1292 Clover Avenue  Windsor Ontario,699900.00,4  2  Residential
+969 Lemonwood-Lower Crescen…  Windsor Ontario,980.00,1  Residential
+7630 Talbot Trail  Dealtown Ontario,2750000.00,5  4  Residential
+388 Malden  Essex Ontario,89900.00,3  1  Residential
+V/l Charlotte  Windsor Ontario,149900.00,Vacant Land
+955 Westminster Boulevard  Windsor Ontario,369900.00,3  2  Residential
+8097 Talbot Trail  Raleigh Township Ontario,589900.00,3  1  Residential
+1226 Wigle  Windsor Ontario,399900.00,3  1  Residential
+2 Dale Drive  Chatham Ontario,399900.00,2  2  Residential
+24 Regal Drive  Tilbury Ontario,599900.00,3  2  Residential
+705 Wallace  Windsor Ontario,2350.00,3  3  Residential
+11215 County Rd 42  Tecumseh Ontario,949900.00,3  2  Residential
+1816 Balfour Boulevard  Windsor Ontario,349900.00,Vacant Land
+31 Main Street  Wallaceburg Ontario,179900.00,3  1  Residential
+155 Reed  Essex Ontario,2500.00,3  2  Residential
+21672 Charing Cross Road  Chatham Ontario,949900.00,4  4  Residential

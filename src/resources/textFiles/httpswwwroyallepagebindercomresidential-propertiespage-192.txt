@@ -1,0 +1,24 @@
+10 Heathview  Leamington Ontario,884900.00,3  2  Residential
+1446 Heritage Garden  Lakeshore Ontario,715900.00,5  3  Residential
+547 South  Windsor Ontario,269900.00,2  1  Residential
+12 Heathview  Leamington Ontario,854900.00,3  2  Residential
+4821 Juliet Crescent  Windsor Ontario,699900.00,5  2  Residential
+10 Hainer  Amherstburg Ontario,529669.00,4  2  Residential
+233 Cameron Avenue  Windsor Ontario,425000.00,5  1  Residential
+959 Virginia Avenue Avenue  Windsor Ontario,399900.00,3  2  Residential
+118 Erie Street  Merlin Ontario,499000.00,3  2  Residential
+5309 Concession 5  Amherstburg Ontario,1300000.00,4  3  Residential
+6 Devonshire Road  Chatham Ontario,419000.00,3  1  Residential
+1937 Villacanal Drive  Kingsville Ontario,869900.00,3  2  Residential
+59 Sunnyside  Lasalle Ontario,374900.00,2  1  Residential
+1951 Everts Avenue  Windsor Ontario,3000.00,5  3  Residential
+571 Dalhousie Street  Amherstburg Ontario,799900.00,3  2  Residential
+21271 Klondyke  Wheatley Ontario,279000.00,Vacant Land
+1066 California  Windsor Ontario,649900.00,3  1  Residential
+141 Adelaide Street  Chatham Ontario,239900.00,1  1  Residential
+21275 Klondyke  Wheatley Ontario,279000.00,Vacant Land
+1150 Edward  Windsor Ontario,1099999.00,7  3  Residential
+130 Belle River Road  Cottam Ontario,874900.00,4  4  Residential
+1607 Howard  Windsor Ontario,2000.00,3  2  Residential
+1365 George  Windsor Ontario,199500.00,3  1  Residential
+1026 Wellington Street  Windsor Ontario,299000.00,3  1  Residential

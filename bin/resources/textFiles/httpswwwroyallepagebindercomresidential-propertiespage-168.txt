@@ -1,0 +1,24 @@
+640 Windsor Avenue  Windsor Ontario,529000.00,4  2  Residential
+1078 California  Windsor Ontario,749900.00,4  2  Residential
+781 Samantha Court  Windsor Ontario,649900.00,3  2  Residential
+1283 Rossini  Windsor Ontario,1950.00,2  1  Residential
+3096 Fazio  Windsor Ontario,609900.00,3  2  Residential
+271 Livingstone Crescent  Amherstburg Ontario,2800.00,3  3  Residential
+309 Erieview  Kingsville Ontario,119900.00,2  1  Residential
+1214 Rendezvous Drive  Windsor Ontario,2850.00,2  3  Residential
+61 Little Baseline Road  Lakeshore Ontario,349900.00,3  1  Residential
+Lot 2 Joan Flood Drive  Essex Ontario,749000.00,3  2  Residential
+2165-2167 Dougall Avenue  Windsor Ontario,510000.00,6  3  Residential
+1418 Mersea Rd 2  Leamington Ontario,299900.00,4  1  Residential
+629 Heritage Road  Kingsville Ontario,989000.00,2  2  Residential
+2429 Pillette Road  Windsor Ontario,199000.00,3  1  Residential
+600 Cousineau Road  Windsor Ontario,1900.00,3  1  Residential
+V/l Heritage  Kingsville Ontario,139900.00,Vacant Land
+3154 Manchester  Windsor Ontario,389000.00,2  1  Residential
+1538 Reading Street  Windsor Ontario,699999.00,4  3  Residential
+1170 Windermere  Windsor Ontario,249900.00,3  1  Residential
+259 Lindsley Street  Dresden Ontario,364900.00,2  1  Residential
+2190 Rockport  Windsor Ontario,649900.00,3  3  Residential
+123 Regency Drive  Chatham Ontario,249000.00,3  2  Residential
+28 Alpine Avenue  Chatham Ontario,549000.00,3  2  Residential
+18116 Third Avenue Avenue  Rondeau Ontario,899900.00,4  4  Residential

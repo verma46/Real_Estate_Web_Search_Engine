@@ -1,0 +1,24 @@
+144 Hanlan Street  Essex Ontario,679900.00,4  3  Residential
+1829 Drouillard Road  Windsor Ontario,569900.00,4  2  Residential
+385 Elm Street  Bothwell Ontario,349900.00,3  2  Residential
+90 Marlborough Street  Blenheim Ontario,369000.00,3  1  Residential
+41 Churchill Avenue  Leamington Ontario,529900.00,4  2  Residential
+294 Jefferson  Windsor Ontario,599900.00,4  3  Residential
+29808 Oakdale Road  Croton Ontario,420000.00,3  2  Residential
+34 Park Lane  Lambton Shores Ontario,589900.00,3  2  Residential
+117 Tissiman Avenue  Chatham Ontario,349000.00,4  2  Residential
+486 Wellington Street  Sarnia Ontario,324900.00,4  2  Residential
+18 Martin  Amherstburg Ontario,589900.00,4  3  Residential
+1962 Thelma Avenue  Sarnia Ontario,420000.00,2  1  Residential
+475 Charron Beach  Lakeshore Ontario,750000.00,4  2  Residential
+2419 Barkley Avenue  Windsor Ontario,2700.00,2  2  Residential
+2419 Barkley Avenue  Windsor Ontario,719000.00,2  2  Residential
+5332 Riverside Drive  Windsor Ontario,5000.00,5  5  Residential
+536 Lily Mac  Windsor Ontario,3000.00,2  2  Residential
+136 John Street  Blenheim Ontario,325000.00,2  1  Residential
+1631 Elsmere  Windsor Ontario,299000.00,2  1  Residential
+V/l County Rd 20  Malden Ontario,379000.00,Vacant Land
+42 County Rd 50  Harrow Ontario,849900.00,3  2  Residential
+1699 Lyons Avenue  Lasalle Ontario,359900.00,Vacant Land
+1308 Wigle Grove Road  Kingsville Ontario,819900.00,4  3  Residential
+314 Pompano Avenue  Windsor Ontario,139900.00,1  1  Residential

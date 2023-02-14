@@ -1,0 +1,24 @@
+243 King James  Lakeshore Ontario,2500.00,4  2  Residential
+10785 Mancroft Street  Windsor Ontario,3500.00,5  4  Residential
+1798 Armanda  Windsor Ontario,2950.00,5  2  Residential
+1611 Aubin Road  Windsor Ontario,249900.00,2  1  Residential
+12115 Baillargeon Drive  Tecumseh Ontario,579888.00,3  2  Residential
+19073 Sydenham Street  Morpeth Ontario,575000.00,1  1  Residential
+540 Emily Lane  Wheatley Ontario,699900.00,3  3  Residential
+4830 Terra Bella  Lasalle Ontario,2299000.00,5  4  Residential
+109 Centennial  Tecumseh Ontario,849900.00,5  2  Residential
+339 Charron Beach  Belle River Ontario,999000.00,3  3  Residential
+3008 Mcrobbie  Windsor Ontario,899900.00,5  3  Residential
+239 Seymour  Amherstburg Ontario,279239.00,3  1  Residential
+162 Texas Road  Amherstburg Ontario,699900.00,4  3  Residential
+158 Delmer  Cottam Ontario,599900.00,5  2  Residential
+22 Country Lane  Chatham Ontario,650000.00,3  3  Residential
+637 Talbot Trail  Wheatley Ontario,379900.00,4  2  Residential
+908 Arthur Road  Windsor Ontario,1700.00,5  3  Residential
+16 Baffin Way  Chatham Ontario,694900.00,3  3  Residential
+413 Matese  Lakeshore Ontario,599900.00,4  3  Residential
+1465 Westminster Boulevard  Windsor Ontario,249900.00,2  2  Residential
+2265 Elsmere Avenue  Windsor Ontario,2000.00,2  1  Residential
+113 Hazel Crescent  Kingsville Ontario,1110000.00,3  2  Residential
+1567 Cataraqui Street  Windsor Ontario,1500.00,1  1  Residential
+48 Callams Bay Crescent  Amherstburg Ontario,2600.00,4  3  Residential

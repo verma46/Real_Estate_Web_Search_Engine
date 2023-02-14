@@ -1,0 +1,24 @@
+113 Kingsbridge  Amherstburg Ontario,2395.00,3  2  Residential
+932 Bridge Avenue  Windsor Ontario,379000.00,3  1  Residential
+4623 Eagle Crescent  Windsor Ontario,579000.00,3  3  Residential
+1699 Seacliff  Kingsville Ontario,699900.00,3  3  Residential
+1044 Lena Avenue  Windsor Ontario,769000.00,8  4  Residential
+157 Regent Street  Blenheim Ontario,449900.00,4  2  Residential
+253 Mercer Street  Chatham Ontario,529900.00,4  2  Residential
+390 Mulberry Lane  Lakeshore Ontario,2400.00,3  2  Residential
+982 Banwell Road  Windsor Ontario,699900.00,5  4  Residential
+6043 Concession Rd 6  Amherstburg Ontario,489999.00,5  2  Residential
+620 North Talbot  Windsor Ontario,1499900.00,4  3  Residential
+2975 Mark Avenue  Windsor Ontario,749900.00,6  3  Residential
+5700 Blackwell Sideroad  Sarnia Ontario,299900.00,2  2  Residential
+21112 Charing Cross Road  Charing Cross Ontario,575000.00,3  2  Residential
+5170 Grand Boulevard  Windsor Ontario,1600.00,3  1  Residential
+150 Pheasant Run  Lakeshore Ontario,674900.00,4  3  Residential
+1837 Queens Valley Drive  Ruthven Ontario,999999.00,3  2  Residential
+12929 Evergreen Line  Camden Township Ontario,499900.00,4  1  Residential
+1242 Albert  Windsor Ontario,625000.00,4  3  Residential
+132 Houghton  Essex Ontario,609900.00,2  1  Residential
+130 Houghton Street  Essex Ontario,569900.00,1  2  Residential
+3199 Woodlawn Avenue  Windsor Ontario,749000.00,3  2  Residential
+2308 Turner  Windsor Ontario,1900.00,2  1  Residential
+166 Stirling Street  Lakeshore Ontario,669900.00,3  1  Residential

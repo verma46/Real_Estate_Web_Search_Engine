@@ -1,0 +1,24 @@
+2759 Randolph Avenue  Windsor Ontario,485000.00,3  1  Residential
+916 Felix Avenue  Windsor Ontario,349000.00,6  2  Residential
+241 Curry  Windsor Ontario,499900.00,7  2  Residential
+374 Rankin Avenue  Windsor Ontario,479900.00,5  2  Residential
+332 Victoria Avenue  Amherstburg Ontario,2295.00,2  2  Residential
+7862 Howard Avenue  Amherstburg Ontario,399900.00,2  2  Residential
+628 County Rd 8  Leamington Ontario,419900.00,3  1  Residential
+2807 Front  Lasalle Ontario,2000000.00,2  1  Residential
+1575 Front Road  Amherstburg Ontario,869900.00,3  4  Residential
+1270 Tourangeau  Windsor Ontario,619900.00,4  2  Residential
+Lot 51 Brett Drive  Essex Ontario,350000.00,Vacant Land
+2642 Todd Lane  Lasalle Ontario,1469999.00,4  4  Residential
+Lot 50 Brett Drive  Essex Ontario,350000.00,Vacant Land
+Lot 48 Brett Drive  Essex Ontario,350000.00,Vacant Land
+Lot 49 Brett Drive  Essex Ontario,350000.00,Vacant Land
+Lot 46 Brett Drive  Essex Ontario,350000.00,Vacant Land
+Lot 47 Brett Drive  Essex Ontario,350000.00,Vacant Land
+Lot 45 Brett Drive  Essex Ontario,350000.00,Vacant Land
+1642 Cadillac  Windsor Ontario,379900.00,3  1  Residential
+214 Merritt Avenue  Chatham Ontario,399900.00,4  2  Residential
+154 Cove Drive  Tecumseh Ontario,1999900.00,5  4  Residential
+693 Highway 3  Leamington Ontario,399000.00,Residential
+3796 St. Francis Crescent  Lasalle Ontario,4000.00,5  5  Residential
+1128 Dougall Avenue  Windsor Ontario,399900.00,4  2  Residential

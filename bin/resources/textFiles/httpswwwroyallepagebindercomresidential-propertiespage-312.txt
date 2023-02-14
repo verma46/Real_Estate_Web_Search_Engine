@@ -1,0 +1,24 @@
+216 Livingstone Crescent  Amherstburg Ontario,779900.00,2  2  Residential
+12 Cleophas  Lakeshore Ontario,649900.00,6  4  Residential
+1788 County Rd 27  Lakeshore Ontario,699900.00,4  2  Residential
+65 Jasper Avenue  Chatham Ontario,424900.00,3  2  Residential
+114 Sylvano Crescent  Lakeshore Ontario,749000.00,4  3  Residential
+764 Dougall Avenue  Windsor Ontario,400000.00,4  3  Residential
+122 Stevens Court  Essex Ontario,289900.00,2  2  Residential
+1235 Elsmere  Windsor Ontario,1750.00,3  1  Residential
+175 Llydican Avenue  Chatham Ontario,777000.00,5  3  Residential
+248 Moonstone Crescent  Chatham Ontario,2200.00,2  2  Residential
+104 Victoria Avenue  Chatham Ontario,329900.00,4  2  Residential
+V/l Kinsman  Lasalle Ontario,79900.00,Vacant Land
+V/l Kinsman  Lasalle Ontario,79900.00,Residential
+32 Destiny Drive  Leamington Ontario,729900.00,4  3  Residential
+647 Cameron  Windsor Ontario,274900.00,3  1  Residential
+1922 Aubin  Windsor Ontario,399000.00,4  1  Residential
+1234 Belle Isle View  Windsor Ontario,429900.00,3  1  Residential
+325 Frank Avenue  Windsor Ontario,290900.00,Vacant Land
+83 Doverdoon Drive  Chatham Ontario,429000.00,2  1  Residential
+3609 Askin Avenue  Windsor Ontario,449000.00,3  2  Residential
+203 Sheldon Avenue  Chatham Ontario,299000.00,3  2  Residential
+4523 Anderson  Comber Ontario,999900.00,4  3  Residential
+1310 Gladstone  Windsor Ontario,1250.00,1  1  Residential
+2311 Cadillac Street  Windsor Ontario,2000.00,4  2  Residential

@@ -1,0 +1,24 @@
+1798 Armanda  Windsor Ontario,729900.00,5  2  Residential
+1455 Snake Lane  Harrow Ontario,829000.00,3  3  Residential
+849 Front Road  Amherstburg Ontario,999900.00,5  4  Residential
+3 Desert Springs Crescent  Leamington Ontario,389000.00,Vacant Land
+2681 Front Road  Lasalle Ontario,899000.00,4  2  Residential
+1560 Dufferin Place  Windsor Ontario,359999.00,3  2  Residential
+236 Old Tecumseh Road  Lakeshore Ontario,3200.00,2  4  Residential
+18 Noble Court  Amherstburg Ontario,1250000.00,4  4  Residential
+1112 Church  Windsor Ontario,2100.00,4  1  Residential
+2662 Meldrum  Windsor Ontario,2100.00,4  1  Residential
+20 Noble Court  Amherstburg Ontario,1250000.00,4  4  Residential
+312 Coretti  Lakeshore Ontario,679900.00,5  2  Residential
+148 Chippewa Drive  Chatham Ontario,539000.00,3  2  Residential
+12522 Talbot Trail  Morpeth Ontario,299000.00,3  2  Residential
+158 West Street  Chatham Ontario,119000.00,3  Residential
+82 University Drive  Chatham Ontario,769000.00,4  3  Residential
+6515 Thornberry  Windsor Ontario,259900.00,3  1  Residential
+71 Main Street  Ridgetown Ontario,799000.00,7  3  Residential
+21 Alice Street  Thamesville Ontario,399900.00,3  1  Residential
+893 Markham Drive  Tilbury North Ontario,359900.00,Vacant Land
+919 Bond Street  Sarnia Ontario,2500.00,4  2  Residential
+106 Ellis Street  Chatham Ontario,1900.00,3  1  Residential
+799 Point Pelee Drive  Leamington Ontario,574900.00,5  3  Residential
+25 Payne Street  Chatham Ontario,239999.00,2  1  Residential

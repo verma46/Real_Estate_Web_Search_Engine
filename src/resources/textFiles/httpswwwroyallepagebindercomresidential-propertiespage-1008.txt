@@ -1,0 +1,24 @@
+1645 Factoria  Windsor Ontario,585000.00,5  2  Residential
+939 Elm Avenue  Windsor Ontario,2000.00,2  1  Residential
+24 Hyslop Street  Chatham Ontario,249000.00,3  1  Residential
+Lot 41 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 38 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 40 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 39 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 35 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 37 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 34 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 33 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 32 Dolores Street  Essex Ontario,335000.00,Vacant Land
+1044 Lena Avenue  Windsor Ontario,550.00,4  2  Residential
+Lot 31 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 30 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 29 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 28 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 27 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 25 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 26 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 23 Dolores Street  Essex Ontario,335000.00,Vacant Land
+Lot 24 Dolores Street  Essex Ontario,335000.00,Vacant Land
+1971 Buckingham Drive  Windsor Ontario,499000.00,3  2  Residential
+189 William Street  Chatham Ontario,498900.00,4  3  Residential

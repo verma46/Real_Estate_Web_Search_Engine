@@ -1,0 +1,24 @@
+132 Landing Pass  Chatham Ontario,749900.00,3  3  Residential
+4387 Guppy Court  Windsor Ontario,2300.00,3  1  Residential
+7405 Malden Road  Lasalle Ontario,524999.00,3  2  Residential
+1372 Monticello  Windsor Ontario,1279000.00,4  4  Residential
+42 Evening Drive  Chatham Ontario,749900.00,2  2  Residential
+609 Mersea Rd 12  Leamington Ontario,1699900.00,4  4  Residential
+150 Middle Street  St Clair Ontario,299000.00,2  1  Residential
+2941 St. Clair Avenue  Windsor Ontario,599900.00,4  2  Residential
+8274 Dover Centre Line  Dover Centre Ontario,349000.00,2  2  Residential
+2557 Trappers  Windsor Ontario,2200.00,2  1  Residential
+2557 Trappers  Windsor Ontario,1900.00,2  1  Residential
+7245 Malden Road  Lasalle Ontario,499900.00,3  2  Residential
+32 Duskridge  Chatham Ontario,659900.00,2  2  Residential
+2258 Chilver  Windsor Ontario,483900.00,3  2  Residential
+552 West Puce Road  Lakeshore Ontario,1300000.00,5  4  Residential
+145 Ellison Street  Leamington Ontario,624999.00,7  5  Residential
+2261 Gesto Road  Essex Ontario,2100000.00,4  4  Residential
+149 Grace  Tecumseh Ontario,724900.00,4  3  Residential
+13056 St. Thomas  Tecumseh Ontario,594900.00,3  2  Residential
+1302 South Malden  Essex Ontario,1749900.00,6  3  Residential
+45 Lacroix Street  Chatham Ontario,324900.00,3  1  Residential
+1405 Mickaila Crescent  Tecumseh Ontario,2250.00,3  2  Residential
+46 Olive Drive  Leamington Ontario,729000.00,3  2  Residential
+2406 County Rd 20  Harrow Ontario,499900.00,4  1  Residential

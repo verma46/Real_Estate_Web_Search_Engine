@@ -1,0 +1,24 @@
+11408 County Rd 46  Lakeshore Ontario,149900.00,2  1  Residential
+175 Churchill Park Road  Chatham Ontario,2360.00,2  1  Residential
+2122 Church  Windsor Ontario,369900.00,4  2  Residential
+2224 Fraser Avenue  Windsor Ontario,699900.00,4  2  Residential
+1576 Harrison Street  Lasalle Ontario,1850.00,2  1  Residential
+3129 Hartley  Windsor Ontario,469000.00,4  2  Residential
+V/l Chelsea  Kingsville Ontario,239900.00,Vacant Land
+1241 Surf Club  Lakeshore Ontario,999000.00,3  2  Residential
+20600 Lakeshore Rd 310  Lakeshore Ontario,549900.00,5  2  Residential
+13 Countess Street  Leamington Ontario,499999.00,3  2  Residential
+1018 Felix  Windsor Ontario,475000.00,7  3  Residential
+310 Morin  Amherstburg Ontario,1099000.00,5  3  Residential
+6349 Thornberry Crescent  Windsor Ontario,209900.00,2  1  Residential
+3 Jeffrey Street  Tilbury Ontario,424900.00,3  1  Residential
+113 Ron Martin Court  Sarnia Ontario,769900.00,3  3  Residential
+1441 Pelissier  Windsor Ontario,399888.00,4  3  Residential
+1720 Naples Crescent  Lasalle Ontario,599900.00,3  3  Residential
+25305 Baldoon Road  Chatham-Kent Ontario,779900.00,3  2  Residential
+3750 Roxborough Avenue  Windsor Ontario,679900.00,4  3  Residential
+888 Marentette  Windsor Ontario,419900.00,3  2  Residential
+283 Welsh  Amherstburg Ontario,714900.00,3  2  Residential
+629 Charles Street  Windsor Ontario,839000.00,5  3  Residential
+10343 Northwood Line  Harwich Township Ontario,599900.00,3  2  Residential
+13707 Gosnell Line  Ridgetown Ontario,649900.00,5  2  Residential

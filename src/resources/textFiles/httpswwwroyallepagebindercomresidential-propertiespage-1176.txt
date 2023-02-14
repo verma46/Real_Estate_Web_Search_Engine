@@ -1,0 +1,24 @@
+3 Margaret Street  Leamington Ontario,599000.00,4  2  Residential
+883 Front Road  Amherstburg Ontario,1799900.00,6  7  Residential
+1500 Church  Windsor Ontario,2500.00,2  2  Residential
+469 Elm Street  Bothwell Ontario,349900.00,2  1  Residential
+1097 Salisbury Street  Sarnia Ontario,3000.00,4  2  Residential
+30 Northern Pine Place  Chatham Ontario,775000.00,5  4  Residential
+175 Churchill Park Road  Chatham Ontario,1725.00,1  1  Residential
+1731 Mater Drive  Sarnia Ontario,999900.00,5  4  Residential
+430 Mcewan  Windsor Ontario,329900.00,3  1  Residential
+2475 Randolph  Windsor Ontario,789000.00,3  2  Residential
+V/l Clark Street  Morpeth Ontario,129900.00,Vacant Land
+9480 Longwoods Road  Chatham Ontario,199900.00,2  2  Residential
+912 Windermere  Windsor Ontario,3000.00,5  2  Residential
+2694 Concession 12  Tecumseh Ontario,649900.00,2  2  Residential
+294 Pacific  Amherstburg Ontario,499000.00,3  2  Residential
+241 Sandybrook Way  Kingsville Ontario,949000.00,5  3  Residential
+1015 Henry Ford Centre Driv…  Windsor Ontario,449007.00,7  2  Residential
+2446 Mcdougall Street  Windsor Ontario,799000.00,5  3  Residential
+380 Shoreview Circle  Windsor Ontario,4800.00,6  5  Residential
+7971 Collison Sideroad  Amherstburg Ontario,1199000.00,4  4  Residential
+1196 Gore Road  Harrow Ontario,449000.00,3  1  Residential
+234 Lakewood  Amherstburg Ontario,899900.00,5  3  Residential
+1568 Caille Avenue  Lakeshore Ontario,649000.00,Vacant Land
+1388 Giles Boulevard  Windsor Ontario,1695.00,2  1  Residential

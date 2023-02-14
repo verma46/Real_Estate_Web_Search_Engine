@@ -1,0 +1,24 @@
+21672 Charing Cross Road  Chatham Ontario,949900.00,4  4  Residential
+487 Elm Avenue  Windsor Ontario,299900.00,4  2  Residential
+418 Wahketa  Windsor Ontario,369990.00,5  3  Residential
+566 St. Peter  Belle River Ontario,549900.00,3  2  Residential
+548 Dougall  Windsor Ontario,199900.00,3  1  Residential
+179 Bruce Avenue  Windsor Ontario,349900.00,3  2  Residential
+1351 Errol Road  Sarnia Ontario,550000.00,3  2  Residential
+13255 Meadowland  Tecumseh Ontario,1250000.00,6  4  Residential
+202-204 Talbot Street  Leamington Ontario,725000.00,3  2  Residential
+71 Evening Drive  Chatham Ontario,659000.00,4  3  Residential
+Lot 2 Joan Flood Drive  Essex Ontario,299900.00,Vacant Land
+1436 St. Luke  Windsor Ontario,2100.00,3  1  Residential
+1096 Copeland Avenue  Windsor Ontario,680000.00,2  2  Residential
+Lot 5 Joan Flood Drive  Essex Ontario,299900.00,Vacant Land
+Lot 4 Joan Flood Drive  Essex Ontario,299900.00,Vacant Land
+Lot 3 Joan Flood Drive  Essex Ontario,299900.00,Vacant Land
+649 Dougall  Windsor Ontario,1900.00,3  2  Residential
+Lot 1 Joan Flood Drive  Essex Ontario,299900.00,Vacant Land
+Lot 6 Joan Flood Drive  Essex Ontario,299900.00,Vacant Land
+1571 Goyeau  Windsor Ontario,349900.00,3  2  Residential
+373 Marla Crescent  Lakeshore Ontario,3200.00,5  3  Residential
+649 Alexandrine  Windsor Ontario,349900.00,2  1  Residential
+35 Faubert Drive  Chatham Ontario,389000.00,3  2  Residential
+104 Argyle Crescent  Chatham Ontario,499999.00,5  2  Residential

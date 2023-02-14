@@ -1,0 +1,24 @@
+775 Hall Avenue  Windsor Ontario,399888.00,5  3  Residential
+3681 Shinglecreek Court  Windsor Ontario,629900.00,4  3  Residential
+1374 Pierre  Windsor Ontario,449900.00,5  3  Residential
+32 Fancy Court  Tilbury Ontario,549900.00,4  2  Residential
+226 Division Street  Kingsville Ontario,3500.00,3  3  Residential
+1204 Sherwood Trail  Sarnia Ontario,679900.00,4  3  Residential
+1039 Gladstone Avenue  Windsor Ontario,499000.00,4  2  Residential
+1010 Esdras  Windsor Ontario,579900.00,4  3  Residential
+9480 Longwoods Road  Chatham Ontario,94900.00,1  1  Residential
+581 County Rd 50  Colchester South Ontario,499900.00,5  2  Residential
+107 William Street  Merlin Ontario,339000.00,3  1  Residential
+193 Delaware Avenue  Chatham Ontario,450000.00,3  2  Residential
+217 Creek Street  Wallaceburg Ontario,329000.00,3  3  Residential
+1696 Caille Avenue  Lakeshore Ontario,1950000.00,3  3  Residential
+1658 Langlois Avenue  Windsor Ontario,689000.00,9  3  Residential
+41 Fryer  Amherstburg Ontario,669000.00,3  2  Residential
+489 Gilbert Avenue  Lasalle Ontario,825000.00,3  2  Residential
+361 St. Charles  Lakeshore Ontario,399900.00,3  2  Residential
+868 Ellrose Avenue  Windsor Ontario,269000.00,4  2  Residential
+5215 Wyandotte Street  Windsor Ontario,469900.00,3  2  Residential
+851 Talbot Road  Maidstone Ontario,1299900.00,4  2  Residential
+994 Banwell Road  Windsor Ontario,699900.00,5  3  Residential
+382 Mulberry Lane  Lakeshore Ontario,4200.00,5  3  Residential
+382 Mulberry Lane  Lakeshore Ontario,959000.00,5  3  Residential

@@ -1,0 +1,24 @@
+1185 Gabrieau Street  Lasalle Ontario,1399000.00,4  3  Residential
+9 Masaccio  Mcgregor Ontario,849999.00,4  4  Residential
+614 Atkinson Street  Windsor Ontario,1800.00,3  2  Residential
+2005 Norman  Windsor Ontario,399900.00,4  2  Residential
+6725 Disputed  Lasalle Ontario,649900.00,3  2  Residential
+36 Windwood Drive  Leamington Ontario,549900.00,4  3  Residential
+1111 Windsor Avenue  Windsor Ontario,399000.00,3  1  Residential
+27 Holly  Kingsville Ontario,699900.00,2  2  Residential
+5700 Blackwell Sideroad  Sarnia Ontario,189900.00,1  1  Residential
+2021 Clarence Street  Sarnia Ontario,694900.00,3  2  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,2360.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,2420.00,2  1  Residential
+151 Running Creek Drive  Wallaceburg Ontario,199900.00,2  1  Residential
+71 Willow Beach Road  Amherstburg Ontario,648000.00,4  2  Residential
+249 Cecile Avenue  Chatham Ontario,688000.00,4  2  Residential
+527 Lacroix Street  Chatham Ontario,429900.00,3  2  Residential

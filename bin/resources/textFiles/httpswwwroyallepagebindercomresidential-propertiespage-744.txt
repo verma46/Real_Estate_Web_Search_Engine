@@ -1,0 +1,24 @@
+3417 Concession Road 11 Roa…  Tecumseh Ontario,919900.00,6  4  Residential
+41 Devonshire Road  Chatham Ontario,324000.00,3  1  Residential
+9480-47 Longwoods  Chatham-Kent Ontario,199000.00,3  1  Residential
+99 Pamela Crescent  Chatham Ontario,499000.00,2  2  Residential
+194 Whelan Avenue  Amherstburg Ontario,949000.00,3  3  Residential
+120 Crosswinds Boulevard  Kingsville Ontario,569900.00,3  3  Residential
+493 Treewood Crescent  Sarnia Ontario,549900.00,4  2  Residential
+334 County Road 34  Kingsville Ontario,679900.00,4  2  Residential
+452 West Puce Road  Emeryville Ontario,1500000.00,4  3  Residential
+51 Patteson Avenue  Chatham Ontario,184900.00,2  1  Residential
+61 York Boulevard  Kingsville Ontario,685000.00,4  2  Residential
+1016 Lincoln  Windsor Ontario,2300.00,3  1  Residential
+5532 Nostadt  Comber Ontario,749900.00,6  3  Residential
+7055 Disputed Road  Lasalle Ontario,1849000.00,5  5  Residential
+2475 Glenwood  Windsor Ontario,849900.00,4  3  Residential
+3425 Lakeshore Rd 302  Lakeshore Ontario,2500.00,4  2  Residential
+84 Belleview Drive  Cottam Ontario,1190000.00,4  3  Residential
+243 Manning  Chatham Ontario,699900.00,3  2  Residential
+1531 Windsor Avenue  Windsor Ontario,399900.00,3  2  Residential
+64 Balmoral Road  Chatham Ontario,419900.00,4  2  Residential
+17 Regal Drive  Tilbury Ontario,675000.00,5  3  Residential
+299 Campus Parkway  Chatham Ontario,499999.00,3  2  Residential
+276 Merritt Avenue  Chatham Ontario,215000.00,2  1  Residential
+3985 Grand Marais Road  Windsor Ontario,1850.00,2  1  Residential
